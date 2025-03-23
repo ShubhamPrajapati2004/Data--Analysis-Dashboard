@@ -18,3 +18,14 @@ Urban Heaven Junction wants to create an annual Sales Report for 2024 so that it
 7. Which Channel is contributing to maximum sales?
 8. Highest selling category? etc.
 
+- Dashboard Intraction <a href="https://github.com/ShubhamPrajapati2004/Data--Analysis-Dashboard/blob/main/Dashboarding%20report.png"> View Dashboard </a>
+
+## Process
+-Verify data for any missing values and anomalies and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created Pivot tables according to the question asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+  ## Dashboard
+  ![Dashboarding report](https://github.com/user-attachments/assets/83aa2df5-143b-49d0-8603-afdfec6768d0)
+
