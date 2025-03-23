@@ -1,2 +1,6 @@
-# Data--Analysis-Dashboard
-I developed a comprehensive project in Excel, Creating multiple dashboards and tables to analyze the data. This process involved several stages,including Data Preprocessing, Data Cleaning and Data visualization.
+# Urban Heaven Junction- Data-Analysis (Interactive dashboard Creation using MS EXCEL)  
+## Project Objective
+
+Urban Heaven Junction wants to create an annual Sales Report for 2024 . So that, Urban Heaven can understand their customer and grow sales in 2025.
+
+
