@@ -31,7 +31,7 @@ Urban Heaven Junction wants to create an annual Sales Report for 2024 so that it
 
   ## Project Insight
   
- - Women are more likely to buy compared to men(~ 65%).
+ - Women are more likely to buy than men(~ 65%).
  - Maharashtra, Karnataka, and Uttar Pradesh are the top 3 States(~35%).
  - Adult age group(30-49 yrs) is maximun contributing (~50%).
  - Amazon, Flipkart, and Myntra Channels are Max Contributing(~80%).
